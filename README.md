@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_IMAGE_URL_GOES_HERE" alt="FOSS Lemonade Stand Banner"/>
+  <img src="FOSS_Lemonade_scaled.png" alt="FOSS Lemonade Stand Banner"/>
 </div>
 
 ### You found my workshop. Welcome.
