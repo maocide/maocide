@@ -54,7 +54,6 @@ This is the tech that powers the workshop and the fuel that powers the coder:
 
 ### 📫 Signal Flares
 
-- **X/Twitter:** [@maoc1d3](https://x.com/maoc1d3) - Updates, wins, and the occasional shitpost.
 - **GitHub Issues:** The primary channel for bugs & feature requests. This is where the work gets done.
 
 <br/>
