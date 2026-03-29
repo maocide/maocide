@@ -21,18 +21,20 @@ The code here doesn't just run; it haunts. It's the ghost of every "wrong" and e
       <br/>
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Local_AI-FF6F00?logo=openai&logoColor=white" alt="Local AI"/>
+      <img src="https://img.shields.io/badge/Flet-00A6D6?logo=flutter&logoColor=white" alt="Flet"/>
+      <img src="https://img.shields.io/badge/AI_Agent-FF6F00?logo=robot&logoColor=white" alt="AI Agent"/>
     </td>
     <td width="50%">
       <a href="https://github.com/maocide/UndeadWallpaper">
         <strong>UndeadWallpaper 📱</strong>
       </a>
       <br/>
-      An open-source Android app to breathe life back into your phone, turning any video into a seamless live wallpaper. Actively maintained to survive brutal OEM background-killing quirks. No ads, no tracking.
+      An open-source Android app to breathe life back into your phone, turning any video into a seamless live wallpaper. ExoPlayer powered, OpenGL transformed.<br/> No ads, no tracking.
       <br/>
       <br/>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin"/>
       <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
+      <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" alt="OpenGL"/>
     </td>
   </tr>
   <tr>
@@ -46,6 +48,7 @@ The code here doesn't just run; it haunts. It's the ghost of every "wrong" and e
       <br/>
       <img src="https://img.shields.io/badge/Python_2.5-8A2BE2?logo=python&logoColor=white" alt="Python Archive"/>
       <img src="https://img.shields.io/badge/Pygame-green" alt="Pygame"/>
+      <img src="https://img.shields.io/badge/XML-orange" alt="XML"/>
     </td>
     <td width="50%">
       <a href="https://github.com/maocide/PlotCaption">
@@ -57,6 +60,7 @@ The code here doesn't just run; it haunts. It's the ghost of every "wrong" and e
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/AI_VLMs-brightgreen" alt="VLMs"/>
+      <img src="https://img.shields.io/badge/Stable_Diffusion-7832CD?logo=stabilityai&logoColor=white" alt="Stable Diffusion"/>
     </td>
   </tr>
 </table>
