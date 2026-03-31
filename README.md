@@ -15,9 +15,11 @@ The code here doesn't just run; it haunts. It's the ghost of every "wrong" and e
 <table>
   <tr>
     <td width="50%">
-        <strong>[COMING SOON] Backlog Reaper 💀</strong>
+      <a href="https://github.com/maocide/BacklogReaper">
+        <strong>Backlog Reaper 💀</strong>
+      </a>
       <br/>
-      A local, desktop-native ReAct AI Agent built to ruthlessly audit your Steam library. Zero telemetry. Parses local SQLite, Vector Embeddings, and native LLM reasoning to roast your digital hoarding. <i>(Summoning ritual in progress...)</i>
+      A desktop-native ReAct AI Agent built to ruthlessly audit your Steam library. Zero telemetry. Parses local SQLite, Vector Embeddings, and native LLM reasoning to roast your digital hoarding.
       <br/>
       <br/>
       <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
