@@ -33,6 +33,14 @@ I started on an Amiga, moved to PC by mistake, and learned to code because schoo
 
 <br>
 
+> Local pirate FLAC server offline.
+<a href="https://open.spotify.com/user/maocide">
+  <img src="https://novatorem-6o4q.vercel.app/api/spotify" alt="Live Sonic Aggression" />
+</a>
+
+<br>
+
 > **⚠️ DISCLOSURE**
 > 
 > LLMs may have been utilized to assist in the production or conceptualization of certain software or visual assets. However, all final architectural and artistic decisions were strictly enforced by demi-human intervention. No LLMs were harmed during production.
+
