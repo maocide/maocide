@@ -1,87 +1,38 @@
 <div align="center">
-  <img src="FOSS_Lemonade_scaled.png" alt="FOSS Lemonade Stand Banner"/>
+ <img src="lab.png" alt="Laboratorio di Mario"/>
 </div>
 
-### You found my workshop. Welcome.
+<br>
 
-I'm a developer who believes in two things: FOSS and the power of a good loud FLAC collection. I build honest, no-bullshit software, forged in the quiet hours between midnight and dawn. Each project is proof that the best response to a broken system isn't to fight it, it's to build something better and leave it behind in the dust.
+> *"il Laboratorio di Mario, dove la droga divampa e di figa ce n'è tanta..."*  
+> Mario's laboratory tales are all true. And by true, I mean false. It's all lies. But they're entertaining lies. And in the end, isn't that the real truth? The answer is: No
 
-The code here doesn't just run; it haunts. It's the ghost of every "wrong" and every "shouldn't," made real line by line.
-
----
-
-### 🧊 + 🍋 + 🥤 My FOSS Lemonade Stand (What's Brewing)
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/maocide/BacklogReaper">
-        <strong>Backlog Reaper 💀</strong>
-      </a>
-      <br/>
-      A desktop-native ReAct AI Agent built to ruthlessly audit your Steam library. Zero telemetry. Parses local SQLite, Vector Embeddings, and native LLM reasoning to roast your digital hoarding.
-      <br/>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/Flet-00A6D6?logo=flutter&logoColor=white" alt="Flet"/>
-      <img src="https://img.shields.io/badge/AI_Agent-FF6F00?logo=robot&logoColor=white" alt="AI Agent"/>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/maocide/UndeadWallpaper">
-        <strong>UndeadWallpaper 📱</strong>
-      </a>
-      <br/>
-      An open-source Android app to breathe life back into your phone, turning any video into a seamless live wallpaper. ExoPlayer powered, OpenGL transformed.<br/> No ads, no tracking.
-      <br/>
-      <br/>
-      <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin"/>
-      <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" alt="Android"/>
-      <img src="https://img.shields.io/badge/OpenGL-5586A4?logo=opengl&logoColor=white" alt="OpenGL"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/maocide/havoc">
-        <strong>Havoc (Est. 2008) 🚀</strong>
-      </a>
-      <br/>
-      A time capsule from the archives. A 2D space game with physics engine and state machine built in pure Python and Pygame before off-the-shelf engines took over. XML-driven, pixel-perfect collisions.
-      <br/>
-      <br/>
-      <img src="https://img.shields.io/badge/Python_2.5-8A2BE2?logo=python&logoColor=white" alt="Python Archive"/>
-      <img src="https://img.shields.io/badge/Pygame-green" alt="Pygame"/>
-      <img src="https://img.shields.io/badge/XML-orange" alt="XML"/>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/maocide/PlotCaption">
-        <strong>PlotCaption 🔮</strong>
-      </a>
-      <br/>
-      Your private, uncensored AI muse. A local tool chain that transforms images into rich character lore (TavernAI format) and automates complex prompts for Stable Diffusion. <i>(Currently dormant)</i>
-      <br/>
-      <br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/AI_VLMs-brightgreen" alt="VLMs"/>
-      <img src="https://img.shields.io/badge/Stable_Diffusion-7832CD?logo=stabilityai&logoColor=white" alt="Stable Diffusion"/>
-    </td>
-  </tr>
-</table>
+**Welcome to the Lab.**  
+I started on an Amiga, moved to PC by mistake, and learned to code because school wasn't going to teach me. Now I write software during degen hours, run Linux, and build utilities that actually do what they say on the tin. No corporate bloat, no telemetry, no performative roadmaps. I build for myself first, fueled by heavy FLAC archives and algorithm-fed playlists, and I share the binaries if they work.
 
 ---
 
-### 🛠️ The Forge & Fuel
-
-This is the tech that powers the workshop and the fuel that powers the coder:
-
-- **Languages:** "Python", "Kotlin", "Java", "GLSL"
-- **Platforms:** "Arch Linux", "Android", "Amiga"
-- **AI & ML:** "ReAct Agents", "Vector Embeddings", "ComfyUI", "LLMs", "VLMs"
-- **The Essentials:** "My cat", "Sonic Aggression", "Green Tea", "Kava"  🤘
+| `[UNDEADWALLPAPER]` | `[BACKLOG REAPER]` |  
+| :--- | :--- |  
+| **UNDEADWALLPAPER 📱**<br><br>ExoPlayer powered, OpenGL transformed live wallpaper engine. No ads, no tracking. | **BACKLOG REAPER 💀**<br><br>Desktop-native ReAct AI Agent. Parses local SQLite & Vector Embeddings to roast your digital hoarding. |  
+| `[HAVOC_ARCHIVE]` | `[PLOTCAPTION]` |  
+| **HAVOC (Est. 2008) 🚀**<br><br>2D space game built in pure Python 2.5/Pygame. A relic from before off-the-shelf engines. | **PLOTCAPTION 🔮**<br><br>Local toolchain transforming images into character lore and Stable Diffusion prompts. *(Dormant)* |
 
 ---
 
-### 📫 Signal Flares
+**HARDWARE & PIPELINE**
+*   **Systems:** Linux / Android
+*   **Languages:** Amiga Basic, Python, Dart, VB, C#, ASP, PHP, SQL, Java, GLSL, Kotlin (<- *you* read this thing I refuse)
+*   **Media:** Gimp, ComfyUI, Local LLMs, VLMs, FFmpeg
+*   **Fuel:** Green Tea, Kava 🍃, Sonic Aggression
 
-- **GitHub Issues:** The primary channel for bugs & feature requests. This is where the work gets done.
+**COMMUNICATIONS**
+*   **Issues:** I have no issue. 
+*   **Roadmaps:** Non-existent. 
+*   **Support:** I hope it compiles.
 
-<br/>
+<br>
+
+> **⚠️ DISCLOSURE**
+> 
+> LLMs may have been utilized to assist in the production or conceptualization of certain software or visual assets. However, all final architectural and artistic decisions were strictly enforced by demi-human intervention. No LLMs were harmed during production.
