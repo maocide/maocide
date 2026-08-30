@@ -22,7 +22,7 @@ I started on an Amiga, moved to PC by mistake, and learned to code because schoo
 
 **HARDWARE & PIPELINE**
 *   **Systems:** Linux / Android
-*   **Languages:** Amiga Basic, Python, Dart, VB, C#, ASP, PHP, SQL, Java, GLSL, Kotlin (<- *you* read this thing I refuse)
+*   **Languages:** Amiga Basic, Python, Dart, VB, C, C#, ASP, PHP, SQL, Java, GLSL, Kotlin (<- *you* read this thing I refuse)
 *   **Media:** Gimp, ComfyUI, Local LLMs, VLMs, FFmpeg
 *   **Fuel:** Green Tea, Kava 🍃, Sonic Aggression
 
