@@ -14,9 +14,9 @@ I started on an Amiga, moved to PC by mistake, and learned to code because schoo
 
 | `[UNDEADWALLPAPER]` | `[BACKLOG REAPER]` |  
 | :--- | :--- |  
-| **UNDEADWALLPAPER 📱**<br><br>ExoPlayer powered, OpenGL transformed live wallpaper engine. No ads, no tracking. | **BACKLOG REAPER 💀**<br><br>Desktop-native ReAct AI Agent. Parses local SQLite & Vector Embeddings to roast your digital hoarding. |  
+| [**UNDEADWALLPAPER 📱**](https://github.com/maocide/UndeadWallpaper)<br><br>ExoPlayer powered, OpenGL transformed live wallpaper engine. No ads, no tracking. | [**BACKLOG REAPER 💀**](https://github.com/maocide/BacklogReaper)<br><br>Desktop-native ReAct AI Agent. Parses local SQLite & Vector Embeddings to roast your digital hoarding. |  
 | `[HAVOC_ARCHIVE]` | `[PLOTCAPTION]` |  
-| **HAVOC (Est. 2008) 🚀**<br><br>2D space game built in pure Python 2.5/Pygame. A relic from before off-the-shelf engines. | **PLOTCAPTION 🔮**<br><br>Local toolchain transforming images into character lore and Stable Diffusion prompts. *(Dormant)* |
+| [**HAVOC (Est. 2008) 🚀**](https://github.com/maocide/havoc)<br><br>2D space game built in pure Python 2.5/Pygame. A relic from before off-the-shelf engines. | [**PLOTCAPTION 🔮**](https://github.com/maocide/PlotCaption)<br><br>Local toolchain transforming images into character lore and Stable Diffusion prompts. *(Dormant)* |
 
 ---
 
