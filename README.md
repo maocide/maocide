@@ -1,11 +1,16 @@
+
+
+
 <div align="center">
  <img src="lab.png" alt="Laboratorio di Mario"/>
 </div>
 
 <br>
 
+> *"You can't kill what's already dead"*
+>
 > *"il Laboratorio di Mario, dove la droga divampa e di figa ce n'è tanta..."*  
-> Mario's laboratory tales are all true. And by true, I mean false. It's all lies. But they're entertaining lies. And in the end, isn't that the real truth? The answer is: No
+> Hello I am Mario and Mario's laboratory tales are all true. And by true, I mean false. It's all lies. But they're entertaining lies. And in the end, isn't that the real truth? The answer is: No
 
 **Welcome to the Lab.**  
 I started on an Amiga, moved to PC by mistake, and learned to code because school wasn't going to teach me. Now I write software during degen hours, run Linux, and build utilities that actually do what they say on the tin. No corporate bloat, no telemetry, no performative roadmaps. I build for myself first, fueled by heavy FLAC archives and algorithm-fed playlists, and I share the binaries if they work.
