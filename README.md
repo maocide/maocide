@@ -17,18 +17,18 @@ I started on an Amiga, moved to PC by mistake, and learned to code because schoo
 
 ---
 
-| `[UNDEADWALLPAPER]` | `[BACKLOG REAPER]` |  
+| `[IMGCRUNCH]` | `[UNDEADWALLPAPER]` |  
 | :--- | :--- |  
-| [**UNDEADWALLPAPER 📱**](https://github.com/maocide/UndeadWallpaper)<br><br>ExoPlayer powered, OpenGL transformed live wallpaper engine. No ads, no tracking. | [**BACKLOG REAPER 💀**](https://github.com/maocide/BacklogReaper)<br><br>Desktop-native ReAct AI Agent. Parses local SQLite & Vector Embeddings to roast your digital hoarding. |  
-| `[HAVOC_ARCHIVE]` | `[PLOTCAPTION]` |  
-| [**HAVOC (Est. 2008) 🚀**](https://github.com/maocide/havoc)<br><br>2D space game built in pure Python 2.5/Pygame. A relic from before off-the-shelf engines. | [**PLOTCAPTION 🔮**](https://github.com/maocide/PlotCaption)<br><br>Local toolchain transforming images into character lore and Stable Diffusion prompts. *(Dormant)* |
+| [**IMGCRUNCH 🔬**](https://github.com/maocide/imgcrunch)<br><br>Hardware-accelerated forensic image viewer & ELA engine. Pure Rust differential math + multimodal VLM neural autopsy. | [**UNDEADWALLPAPER 📱**](https://github.com/maocide/UndeadWallpaper)<br><br>ExoPlayer powered, OpenGL transformed live wallpaper engine. No ads, no tracking. |  
+| `[BACKLOG REAPER]` | `[HAVOC_ARCHIVE]` |  
+| [**BACKLOG REAPER 💀**](https://github.com/maocide/BacklogReaper)<br><br>Desktop-native ReAct AI Agent. Parses local SQLite & Vector Embeddings to roast your digital hoarding. | [**HAVOC (Est. 2008) 🚀**](https://github.com/maocide/havoc)<br><br>2D space game built in pure Python 2.5/Pygame. A relic from before off-the-shelf engines. |
 
 ---
 
 **HARDWARE & PIPELINE**
 *   **Systems:** Linux / Android
 *   **Desktop Rice:** [BakaBot GTK](https://github.com/maocide/bakabot-gtk-theme)
-*   **Languages:** Amiga Basic, Python, Dart, VB, C, C#, ASP, PHP, SQL, Java, GLSL, Kotlin (<- *you* read this thing I refuse)
+*   **Languages:** Amiga Basic, Python, Rust, Dart, VB, C, C#, ASP, PHP, SQL, Java, GLSL, Kotlin (<- *you* read this thing I refuse)
 *   **Media:** Gimp, ComfyUI, Local LLMs, VLMs, FFmpeg
 *   **Fuel:** Green Tea, Kava 🍃, Sonic Aggression
 
