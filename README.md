@@ -39,11 +39,16 @@ I started on an Amiga, moved to PC by mistake, and learned to code because schoo
 
 <br>
 
-Local pirate FLAC server offline.
+MusicImp 👿 broadcasting pirate radio
+<br>
+<a href="https://open.spotify.com/user/maocide">
+  <img src="https://musicimp-beacon.mi-profile.workers.dev/beacon.svg" alt="Live Sonic Aggression" />
+</a>
+<!--
 <a href="https://open.spotify.com/user/maocide">
   <img src="https://novatorem-6o4q.vercel.app/api/spotify" alt="Live Sonic Aggression" />
 </a>
-
+-->
 <br>
 <br>
 
